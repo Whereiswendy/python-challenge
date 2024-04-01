@@ -50,7 +50,7 @@ Your task is to create a Python script that analyses the records to calculate ea
 - The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
-![pybank](pybank_result_image.png)
+[![pybank](pybank_result_image.png)](https://github.com/Whereiswendy/python-challenge/blob/main/README/pybank_result_image.png)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
