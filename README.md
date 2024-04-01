@@ -71,7 +71,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 - The winner of the election based on popular vote
 
 Your analysis should align with the following results:
-![pypoll](pypoll_result_image.png)
+[![pypoll](pypoll_result_image.png)](https://github.com/Whereiswendy/python-challenge/blob/main/README/pypoll_result_image.png)
 
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
