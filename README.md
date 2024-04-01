@@ -147,7 +147,7 @@ In addition, your final script should both print the analysis to the terminal an
 ---
 ## Grading
 This assignment will be evaluated against the requirements and assigned a grade according to the following table:
-![grading](grading_image.png)
+[![grading](grading_image.png)](https://github.com/Whereiswendy/python-challenge/blob/main/README/grading_image.png)
 
 ---
 ## Submission
